@@ -1,0 +1,11 @@
+{
+  "id": "jeiapi_plugin",
+  "minversion": 20223738463,
+  "info": {
+    "name": "JEI-API",
+    "version": "1.0",
+    "description": "Adds JEI API for 1.16.5, 1.17.1 & 1.18.2",
+    "author": "SirJStig",
+    "pluginPageID": 84884
+  }
+}
